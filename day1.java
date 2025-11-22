@@ -1,0 +1,7 @@
+// hello world code
+
+class student {
+  public static void main(String arg[]){
+    System.out.println("hello");
+  }
+}

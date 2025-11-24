@@ -1,18 +1,13 @@
-// hello world code
-
-class student {
-  public static void main(String arg[]){
-    System.out.println("hello");
-  }
-}
+import java.sql.*;
+import java.until.*;
 
 
-// hello world code
+public classs javaApplication{
+  public static void mian(String args[]){
 
-class student {
-  public static void main(String arg[]){
-    if("name"=="axit"){
-      System.out.printf("hello welcom");
-    }
+    String url = "jdbc:mysql://localhost:3306/employee";c
+    String user = "root";
+    String password = "";
+    S
   }
 }

@@ -72,8 +72,8 @@ java --version
 # Variables
 
 String => stores string Value "hello"
-int =>  stores integers 123 or -123 
-float => stores floating point numbers 19.99 or -19.99
+int =>  stores integers 123 or -123  => byte,short,long
+float => stores floating point numbers 19.99 or -19.99 => double
 char => stores single characters  'a' or 'B'.
 boolan => stores values with two states: true or false
 

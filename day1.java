@@ -103,5 +103,43 @@ ex:-
 - String myText = "Hello";
 
 
+# JVM Stands for Java Virtual Machine
 
+- with out JVM not run this program
+- a virtual machine that runs Java programs by interpreting bytecode and providing a runtime environment
+
+# Java is platform-independent because its compiled code, bytecode, is not tied to a specific operating system or hardware.(run any platfom and any mashin);  
+
+# jvm is a platform dependent
+
+- jvm run the first file.
+class hello
+{
+  public static void main(String a[])
+  {
+    System.out.println("hello name");
+  }
+}
+
+- extenshan of byte code is .class
+
+# JVM (Java Virtual Machine)
+
+- Think of JVM like a machine that runs Java programs.
+- Runs .class files (bytecode)
+- Converts bytecode → machine code for your OS
+- Handles memory, garbage collection, security
+
+# JRE (Java Runtime Environment)
+- JRE as a package that contains everything needed to run Java programs.
+- Core libraries (Java classes)
+
+# ----=> java is write once run anywhere
+
+
+
+
+
+
+ 
 

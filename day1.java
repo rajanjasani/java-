@@ -97,8 +97,11 @@ ex:-
 ex:-
 
 - int myNum = 5;
+- byte by = 127;
+- short sh = 234;
 - long l = 12234l; // in long after number write a L
 - float myFloatNum = 5.99f;
+- double d = 5.8;
 - char myLetter = 'D';
 - boolean myBool = true;
 - String myText = "Hello";
@@ -136,6 +139,12 @@ class hello
 - Core libraries (Java classes)
 
 # ----=> java is write once run anywhere
+
+Widening Casting (automatic) - converting a smaller type to a larger type size
+byte -> short -> char -> int -> long -> float -> double
+
+Narrowing Casting (manual) - converting a larger type to a smaller type size
+double -> float -> long -> int -> char -> short -> byte
 
 
 

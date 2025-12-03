@@ -97,6 +97,7 @@ ex:-
 ex:-
 
 - int myNum = 5;
+- long l = 12234l; // in long after number write a L
 - float myFloatNum = 5.99f;
 - char myLetter = 'D';
 - boolean myBool = true;

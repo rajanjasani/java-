@@ -32,3 +32,21 @@ class index{
     
   }
 }
+
+
+Method	Description
+next() Reads a single name from the user
+nextBoolean()	Reads a boolean value from the user
+nextByte()	Reads a byte value from the user
+nextDouble()	Reads a double value from the user
+nextFloat()	Reads a float value from the user
+nextInt()	Reads a int value from the user
+nextLine()	Reads a String value from the user
+nextLong()	Reads a long value from the user
+nextShort()	Reads a short value from the user
+
+Widening Casting (automatic) - converting a smaller type to a larger type size
+byte -> short -> char -> int -> long -> float -> double
+
+Narrowing Casting (manual) - converting a larger type to a smaller type size
+double -> float -> long -> int -> char -> short -> byte
